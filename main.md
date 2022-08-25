@@ -53,5 +53,5 @@ to support the next generation of emerging applications.
 
 The Open Grid can only come about through deep collaboration and open architectures.
 While many Grid technologies are being implemented today,
-it will be a decades-long journey of innovation and it will touch all levels of the stack,
+it will be a decades-long journey of innovation that will touch all levels of the stack,
 from fiber optics to AI-driven workload automation.
