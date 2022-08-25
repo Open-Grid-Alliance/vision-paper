@@ -1,9 +1,24 @@
 # Mission & Vision
 
-The Open Grid Alliance (OGA) seeks to be this organization. 
-It will include leaders from multiple industries and disciplines, 
-leveraging domain expertise that spans the entire stack, 
+The Open Grid Alliance (http://opengridalliance.org) is a member-supported
+collaboration organization that produces vendor-neutral strategies to
+evolve the Internet to a global, shared platform that distributes compute, data, and intelligence
+to when and where it’s needed, on demand, and with guarantees and SLAs.
+It will include leaders from multiple industries and disciplines,
+leveraging domain expertise that spans the entire stack,
 encompassing the physical infrastructure as well as the software-driven networking, virtualization, automation, and application layers.
+
+The OGA will embrace technologies that distribute the economics and flexibility of the cloud
+through the network edge all the way to end users,
+making it possible to build new classes of applications
+that support billions of intelligent devices, the data that they generate,
+and the new networking infrastructure that underpins their seamless operation.
+
+The OGA will define key principles for the Open Grid and identify interoperable
+technologies that adhere to those principles.
+It will document how these technologies will impact cloud providers, developers,
+vendors, communication service providers (CSPs), internet service providers (ISPs), and end users.
+The OGA will promote collaboration and open architectures that will enable the dynamic geo-distribution of workloads.
 
 # Introduction and Motivation
 
