@@ -23,8 +23,9 @@ The OGA will promote collaboration and open architectures that will enable the d
 # Introduction and Motivation
 
 The Open Grid Alliance (OGA) started in Summer 2021 looking to catalyze the emergence of edge infrastructure,
-5G networks and billions of IoT devices, the Grid is the next step in the evolution of the Internet.
-Globally distributed, the Grid weaves together a public and private fabric of compute, data and intelligence
+5G networks and billions of IoT devices.
+Globally distributed, the Grid is the next step in the evolution of the Internet.
+It weaves together a public and private fabric of compute, data and intelligence
 to enable contextually aware, immersive applications at the edge, on demand.
 The grid is an open architectures that will enable the dynamic and geo-distribution of workloads,
 evolving the internet to service the billions of devices and applications coming online.
