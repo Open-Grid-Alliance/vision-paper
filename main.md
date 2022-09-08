@@ -59,8 +59,6 @@ to enable contextually aware, immersive, distributed applications at the edge, o
 The Open Grid is an open architecture that to enable the dynamic and geo-distribution
 of compute, services, and workloads, evolving the internet to serve the billions of devices and applications coming online.
 
-**add list of achievements so far somewhere in this section or the section below**
-
 # The Open Grid
 
 The Open Grid is the inevitable evolution of the internet.
