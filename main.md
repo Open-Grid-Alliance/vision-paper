@@ -6,7 +6,7 @@ evolve the Internet to a global, shared platform - namely the Open Grid - and de
 
 It includes leaders from multiple industries and disciplines,
 leveraging domain expertise that spans the entire stack,
-encompassing the physical infrastructure as well as the software-driven networking, virtualization, automation, and application layers.
+encompassing the physical infrastructure as well as the software-driven networking, compute abstration, automation, and application layers.
 
 The OGA will embrace technologies that distribute the economics and flexibility of the cloud
 through the network edge all the way to end users,
