@@ -31,7 +31,7 @@ Since its inception 30+ members have joined the OGA to jointly realize the visio
 The path to realize the vision will encompass the identification and solutions of fundamental and theoretic questions,
 the development of proof of concepts, the establishment of an industrial ecosystem,
 and the advancement of a market through four workstreams:
-the Grind Think Tank, Grid Innovation Zone, Grid Industry Development and Grid Market Development
+the Grid Think Tank, Grid Innovation Zone, Grid Industry Development and Grid Market Development
 through interactions within the OGA as well as the global related ecosystem.
 **an illustration would be good here**
 
