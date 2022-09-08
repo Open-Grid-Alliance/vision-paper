@@ -33,7 +33,8 @@ the development of proof of concepts, the establishment of an industrial ecosyst
 and the advancement of a market through four workstreams:
 the Grid Think Tank, Grid Innovation Zone, Grid Industry Development and Grid Market Development
 through interactions within the OGA as well as the global related ecosystem.
-**an illustration would be good here**
+
+![Grid workstreams](Grid_workstreams.png)
 
 With the intent to provide services and personalized solutions to everyone, anywhere, at any time
 to conquer the digital divide at the globe, the OGA assesses, monetizes, and evolves
