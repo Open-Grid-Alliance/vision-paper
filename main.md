@@ -40,7 +40,7 @@ This will be accomplished through interactions within the OGA as well as the glo
 The intent of the OGA is to provide services and personalized solutions to everyone, anywhere, at any time,
 and to conquer the digital divide across the globe.
 To achieve this, the OGA assesses, monetizes, and evolves
-various technologies including radio, web, compute, and AI/ML to achieve automation at global scale.
+various technologies including radio, web, compute, AI/ML and many more to achieve automation at global scale.
 
 Today's Internet is just a communication vehicle—it is not ready for that planet scale automation just yet.
 What is needed is a living, breathing foundation for the development of personalized and intelligent solutions for everyone.
