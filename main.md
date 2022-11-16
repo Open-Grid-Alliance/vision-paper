@@ -1,11 +1,55 @@
 # Mission & Vision
 
+[//]: # (General: What does 'Internet' mean? Looks that my definition is different from the one used here?)
+[//]: # ( => Service focused; single company own global service)
+
+[//]: # (What does 'reachritecting the Internet' means?)
+[//]: # (What is behind this?)
+[//]: # ( => reformulate)
+[//]: # ( => federated internet: e.g. Mastodon, Blockchain, ...)
+[//]: # ( => charging, accounting and billing tbd.; key-words: micopayment)
+
+[//]: # (IMHO this is adding some more functions, but not replacing the Internet?)
+[//]: # (The 'worldwide shared platform' needs IMHO some explanations.)
+[//]: # ( => common API / Interfaces)
+[//]: # ( => single buy-in / decentralizes system)
+
+[//]: # (It is not clear what the difference between the OGA solution and e.g. an already available product like Google Serverless is.)
+[//]: # (What are the use cases? Are there also use cases like using power in the most efficient way? )
+[//]: # ( => Vapor.io: look at their presentations)
+[//]: # ( => What want people? education of children - business relevant; health-care)
+
 The Open Grid Alliance (OGA) (http://opengridalliance.org) is a collaborative industry organization
-focused on rearchitecting the Internet into a worldwide shared platform —namely, the Open Grid —
+focused on rearchitecting the Internet into a worldwide shared platform - namely, the Open Grid -
 that dynamically distributes compute, data and intelligence to where application and services demand.
+
+[//]: # ( => Sven volunteers to re-formulate; all will review; target: next week's meeting)
+
+
+[//]: # (Should we add a sentence about the name? 'Open Grid' might be easiliy mistakes with power grid.)
+
+[//]: # ( => Sven volunteers to re-formulate; all will review; target: next week's meeting)
+
+
+[//]: # (The next sentence is more a markteing statement - and does still not explain technical details.)
+[//]: # (   ... e.g. what is a 'Open Grid platform'?)
+[//]: # (What does 'vendor-neutral' means? Open interfaces / APIs? What about interlectual properties?)
+[//]: # ("commercial enterprises, non-profit organizations and academic institutions" is IMHO in contradiction to 'industry ordanization'.)
 
 The OGA develops vendor-neutral solutions to evolve the Internet into a global, shared Open Grid platform,
 supported by a global ecosystem of commercial enterprises, non-profit organizations and academic institutions.
+
+[//]: # (Ask BoM: what *should* be the outcome? Architecture? Blueprint? API / Interface definitions? )
+
+
+[//]: # (What is 'edge'? There is also one interpretation that the end users are part of the edge.)
+[//]: # (Do I misunderstand something? How can economics be distributed?)
+[//]: # (What are these 'classes of applications'? Where are they defined?)
+[//]: # (Also the current setup of the Internet supports this - as it is already handled by some public-cloud products.)
+[//]: # ( ... What is special for OGA?)
+[//]: # (What is an 'intelligent device'?)
+[//]: # (Will OGA provide new networking infrastructure? How?)
+[//]: # (Suggestion: move everything starting from the second sentence to one section further down.)
 
 By embracing technologies that distribute the economics and flexibility of the cloud
 from centralized data centers through the network edge and all the way to end users,
@@ -21,7 +65,16 @@ The OGA also seeks out cross-sectional expertise in areas such as security, clim
 
 # The Open Grid
 
+[//]: # (This sounds like a marketing sloagan without any technical background.)
+
 The Open Grid is the inevitable evolution of the Internet.
+
+
+[//]: # (Who is 'our' and 'we'?)
+[//]: # (Why does the current topology no longer provide for our needs?)
+[//]: # (Why must the redesign start at the edge?)
+[//]: # (Which services will the Open Grid provide [which are not already available]?)
+[//]: # (What are 'next generation of applications'?)
 
 The legacy Internet with its massively scaled data centers and its core-centric network topologies will no longer provide for our needs;
 we must redesign our systems starting at the edge.
@@ -30,6 +83,10 @@ that stretches across the globe to support multi-cloud, hybrid cloud, near-prem 
 via fungible resources that are employed, when and where they are needed, on demand, and with service guarantees.
 It combines all the necessary components including hardware, software, networking, and infrastructure technologies
 to support the next generation of applications.
+
+
+[//]: # (This diagram leaves open more questions than it answers.)
+[//]: # (This diagram is IMHO much to detailed and confuses - is on a detail level for an architecture but not for a vision.)
 
 ![High-level illustration of the Grid and its key features.](Grid_highlevel_illustration.png)
 
