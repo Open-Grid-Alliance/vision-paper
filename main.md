@@ -92,6 +92,9 @@ to support the next generation of applications.
 
 # Why the OGA is Needed
 
+[//]: # (Title: change)
+[//]: # (Idea: OGA Goal / purpose)
+
 Today's Internet is primarily a communication vehicle; it is not yet ready for planet-scale automation.
 What is needed is an openly developed and widely shared foundation for the development of personalized and intelligent solutions for everyone.
 The Open Grid will be a living entity, with a circulatory system that stitches together all digital resources owned and managed by different entities
@@ -104,6 +107,9 @@ for planning, designing and operating these systems with high degrees of autonom
 We must assess all these technological change vectors and harmonize them to build the Open Grid.
 
 # How the OGA Operates
+
+[//]: # (Title: change)
+[//]: # (Idea: How to get to the goals?)
 
 The OGA assesses, monetizes, and evolves
 various technologies including radio, web, compute, AI/ML and many more to achieve automation at global scale.
@@ -126,6 +132,9 @@ vendors, communication service providers (CSPs), internet service providers (ISP
 
 # Introduction and Motivation
 
+[//]: # (Title: change)
+[//]: # (Idea: What was achived so far?)
+
 At its inception in Summer 2021,
 the Open Grid Alliance sparked a groundswell of industry support
 with its *Open Grid Manifesto* (https://bit.ly/Open-Grid-Manifesto).
@@ -138,6 +147,15 @@ which published the market analysis paper *Monetizing the Open Grid in Las Vegas
 and demonstrated a real-time video conferencing system over 5G CBRS using Open Grid technologies.
 
 # Call for Actions
+
+[//]: # (Title: change)
+[//]: # (Idea: Open for collaboration)
+[//]: # (Add: What is the task you can provide? Service Provider; hardware manufacture; software provider)
+[//]: # (Bring the software package and add automate deployment your package)
+[//]: # (Service provider: How to connect your service to the grid and make it available to the whole network?)
+[//]: # (hardware provider: Help us seamlessly integrate your hardware into the grid and make it available for general consumption.)
+[//]: # (organizations / OpenSource communitities: Help us to contribute to and support of OpenSource projects.)
+[//]: # (=> Aaron)
 
 The Open Grid can only come about through deep collaboration and open architectures.
 While many Open Grid technologies are being implemented today,
