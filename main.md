@@ -87,5 +87,16 @@ While many Open Grid technologies are being implemented today,
 it will be a decades-long journey of innovation that will touch all levels of the stack,
 from fiber optics to AI-driven workload automation.
 
-The OGA therefore invites you all to join our effort to make its vision of evolving the Internet
-to close the digital divide for a better future for everyone across the globe!
+For hardware providers, the Open Grid provides close proximity
+distributed datacenter locations with last mile connectivity to reach
+the end customer.  For software providers, the Open Grid enables your
+software stack to be pre-integrated into an end to end solution for
+the enterprise customer.  For data center operators, being part of the
+Open Grid increases your ability to reach end customer sites and help
+the end customer finish their digital transformation by moving the
+last workloads offsite. For last mile service providers, being part of
+the Open Grid enhances your product offering and increases your
+revenue stream with pre-integrated solutions offered through the Open
+Grid.  The OGA invites you to join our efforts to make this vision of
+evolving the Internet for a better future for everyone across the
+globe!
