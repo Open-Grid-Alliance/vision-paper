@@ -1,39 +1,39 @@
 # Mission & Vision
 
-The Open Grid Alliance (OGA) (http://opengridalliance.org) is a collaborative industry organization
-focused on rearchitecting the Internet into a worldwide shared platform —namely, the Open Grid —
-that dynamically distributes compute, data and intelligence to where application and services demand.
+The construct we are building has two aspects – it is a Grid and a
+Utility. As a grid, it combines resources from various administrative
+and technological domains. The focus here is on sharing resources and
+services. As a utility, it provides ubiquitous access to resources and
+services on demand. The focus here is to acquire resources. In
+combination, it is a facility that is being provided to applications
+to help them achieve their goals while creating added value for
+resource owners and operators. The Grid’s infrastructure is a
+combination of operating system, cloud-computing, networking, and
+distributed system including their management.
 
-The OGA develops vendor-neutral solutions to evolve the Internet into a global, shared Open Grid platform,
-supported by a global ecosystem of commercial enterprises, non-profit organizations and academic institutions.
+The Grid enables and targets hyper-composed applications - dynamically
+composed applications with the ‘right type’ of resources in the ‘right
+amount’, in the ‘right place’, and at the ‘right time’, with
+intelligent optimization across all four dimensions at all
+times. Applications developed edge-native do use composition and the
+Grid extends this to hyper-composition.
 
-By embracing technologies that distribute the economics and flexibility of the cloud
-from centralized data centers through the network edge and all the way to end users,
-the OGA makes it possible to build new classes of applications
-that support billions of intelligent devices, the data that they generate,
-and the new networking infrastructure that underpins their seamless operation.
-The OGA welcomes leaders from many industries and disciplines,
-leveraging domain expertise that spans the entire stack,
-encompassing physical infrastructure (fiber, data centers, real estate, servers)
-as well as the software-driven networking, compute abstraction, automation,
-federation, and application layers.
-The OGA also seeks out cross-sectional expertise in areas such as security, climate neutrality and resource efficiency.
-
-# The Open Grid
-
-The Open Grid is the inevitable evolution of the Internet.
-
-The legacy Internet with its massively scaled data centers and its core-centric network topologies will no longer provide for our needs;
-we must redesign our systems starting at the edge.
-This new Open Grid will be a software-defined system
-that stretches across the globe to support multi-cloud, hybrid cloud, near-prem and on-prem services
-via fungible resources that are employed, when and where they are needed, on demand, and with service guarantees.
-It combines all the necessary components including hardware, software, networking, and infrastructure technologies
-to support the next generation of applications.
+* Distributed, federated, parallel, circular, context: [security,
+  protect people, privacy], resilience, flexible 
+* Fungible, organic
+* Privacy + sovereignty [privacy, e.g. temperature reading OK for GP
+  but not OK for general public] 
+* Context has time dimension!
+* Monitoring, accounting, charging, billing -> context / purpose
+  (e.g. charity vs. profit) 
+* Context is a shifting window in time
+* SLA decentralized
+* What environmental / sustainable variables are part of the Grid
+* Supply-chain constraints
 
 ![High-level illustration of the Grid and its key features.](Grid_highlevel_illustration.png)
 
-# Why the OGA is Needed
+# The OGA Purpose
 
 Today's Internet is primarily a communication vehicle; it is not yet ready for planet-scale automation.
 What is needed is an openly developed and widely shared foundation for the development of personalized and intelligent solutions for everyone.
@@ -46,7 +46,7 @@ To achieve this, we must devise new and recursive approaches
 for planning, designing and operating these systems with high degrees of autonomy.
 We must assess all these technological change vectors and harmonize them to build the Open Grid.
 
-# How the OGA Operates
+# OGA's Approach
 
 The OGA assesses, monetizes, and evolves
 various technologies including radio, web, compute, AI/ML and many more to achieve automation at global scale.
