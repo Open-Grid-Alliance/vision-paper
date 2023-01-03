@@ -1,15 +1,73 @@
-# Mission & Vision
+# The Challenge
 
-The construct we are building has two aspects – it is a Grid and a
-Utility. As a grid, it combines resources from various administrative
-and technological domains. The focus here is on sharing resources and
-services. As a utility, it provides ubiquitous access to resources and
-services on demand. The focus here is to acquire resources. In
-combination, it is a facility that is being provided to applications
-to help them achieve their goals while creating added value for
-resource owners and operators. The Grid’s infrastructure is a
-combination of operating system, cloud-computing, networking, and
-distributed system including their management.
+Today's Internet is primarily a communication vehicle; it is not yet ready for planet-scale automation.
+
+The challenge we face is that the current Internet Infrastructure is
+not optimized to support the demands of an Immersive Experience world,
+where automation at a planetary scale is required. We must find ways
+to upgrade and evolve our Internet Infrastructure to meet the needs of
+this rapidly changing landscape, and unlock the transformative
+potential of immersive technologies power for everyone, everywhere.
+
+This requires a commitment to innovation, collaboration, and
+continuous improvement in order to create a more resilient and
+adaptable internet.
+
+[//]: # (2023-01-03: alternative version)
+[//]: # (The challenge we face is that the current internet infrastructure is)
+[//]: # (not optimized to support the demands of a world driven by immersive)
+[//]: # (experiences. Despite significant progress in automation and other)
+[//]: # (technological advances, we must overcome the limitations of our)
+[//]: # (current systems and strive to build a planet-scale infrastructure that)
+[//]: # (can support the next generation of digital experiences. This requires)
+[//]: # (a commitment to innovation, collaboration, and continuous improvement)
+[//]: # (in order to create a more resilient and adaptable internet that can)
+[//]: # (meet the needs of users everywhere.)
+
+[//]: # (2023-01-03: alternative version)
+[//]: # (Our vision is to be the world's most openly developed and widely)
+[//]: # (shared foundation for the development of personalized and intelligent)
+[//]: # (solutions for everyone.)
+
+[//]: # (2023-01-03: alternative version)
+[//]: # (What is needed is an openly developed and widely shared foundation)
+[//]: # (for the development of personalized and intelligent solutions for everyone.)
+
+# Our Mission
+
+Our mission at the OGA is to revolutionize the internet by
+constructing a comprehensive grid and utility that integrates diverse
+administrative and technological domains, ultimately transforming the
+way the internet functions to improve quality of life.
+
+To achieve this mission, we must devise new and recursive approaches
+for planning, designing and operating these systems with high degrees
+of autonomy.  We must assess all these technological change vectors
+and harmonize them to build this grid and utility, which we call the
+Open Grid.
+
+[//]: # (2023-01-03: alternative version)
+[//]: # (The OGA is building a Grid and Utility combining various)
+[//]: # (administrative and technological domains to fundamentally change the)
+[//]: # (way the internet operates.)
+
+[//]: # (The section before replaces:)
+[//]: # (The construct we are building has two aspects – it is a Grid and a)
+[//]: # (Utility. As a grid, it combines resources from various administrative)
+[//]: # (and technological domains.)
+
+# Our Vision
+
+Our vision is to empower individuals and organizations around the
+world to achieve their full potential by providing open, innovative,
+and personalized solutions that harness the power of artificial
+intelligence and other emerging technologies. As the world's most
+openly developed and widely shared foundation for digital
+transformation, we strive to democratize access to advanced
+technologies and enable everyone to participate in the creation of a
+smarter, more connected, and more equitable world.
+
+# Our Strategy
 
 The Grid enables and targets hyper-composed applications - dynamically
 composed applications with the ‘right type’ of resources in the ‘right
@@ -18,11 +76,13 @@ intelligent optimization across all four dimensions at all
 times. Applications developed edge-native do use composition and the
 Grid extends this to hyper-composition.
 
-* Distributed, federated, parallel, circular, context: [security,
-  protect people, privacy], resilience, flexible 
+[//]: # (maybe add 'privacy, e.g. temperature reading OK for GP but not OK for general public' to privacy and sovereignty)
+
+* Distributed, federated, parallel, circular, context: security,
+  protect people, privacy, resilience, flexible 
 * Fungible, organic
-* Privacy + sovereignty [privacy, e.g. temperature reading OK for GP
-  but not OK for general public] 
+* Privacy + sovereignty 
+
 * Context has time dimension!
 * Monitoring, accounting, charging, billing -> context / purpose
   (e.g. charity vs. profit) 
@@ -31,20 +91,23 @@ Grid extends this to hyper-composition.
 * What environmental / sustainable variables are part of the Grid
 * Supply-chain constraints
 
-![High-level illustration of the Grid and its key features.](Grid_highlevel_illustration.png)
+# The Open Grid
 
-# The OGA Purpose
-
-Today's Internet is primarily a communication vehicle; it is not yet ready for planet-scale automation.
-What is needed is an openly developed and widely shared foundation for the development of personalized and intelligent solutions for everyone.
 The Open Grid will be a living entity, with a circulatory system that stitches together all digital resources owned and managed by different entities
 across many parts of the world,
 and with a nervous system that facilitates collaboration between
 all of these "local brains" that run and operate these connectivity systems.
 
-To achieve this, we must devise new and recursive approaches
-for planning, designing and operating these systems with high degrees of autonomy.
-We must assess all these technological change vectors and harmonize them to build the Open Grid.
+The focus here is on sharing resources and
+services. As a utility, it provides ubiquitous access to resources and
+services on demand. The focus here is to acquire resources. In
+combination, it is a facility that is being provided to applications
+to help them achieve their goals while creating added value for
+resource owners and operators. The Grid’s infrastructure is a
+combination of operating system, cloud-computing, networking, and
+distributed system including their management.
+
+![High-level illustration of the Grid and its key features.](Grid_highlevel_illustration.png)
 
 # OGA's Approach
 
@@ -61,11 +124,17 @@ including the production of economic impact reports
 and addressable market models that members and municipalities can use
 to predict opportunities and outcomes.
 
-The OGA also builds reference architectures
-and coordinates with its members to develop collaborative go-to-market offerings.
-As the OGA proves out new technologies,
-it documents how these technologies will impact cloud providers, developers,
-vendors, communication service providers (CSPs), internet service providers (ISPs), and end users.
+~~The OGA also builds reference architectures
+and coordinates with its members to develop~~
+The OGA guides development of reference architectures to facilitate
+co-creation across multiple sectors contributing to the various
+elements of the Grid stack for 
+collaborative go-to-market
+offerings. As the OGA proves out new technologies, it documents how
+these technologies will impact cloud providers, developers, vendors,
+communication service providers (CSPs), internet service providers
+(ISPs), and end users.
+
 
 # Introduction and Motivation
 
